@@ -13,7 +13,7 @@
 */
 
 #include <Wire.h>
-#include "BMP580.h"
+#include <Voltino_BMP580.h>
 
 BMP580 bmp;
 
