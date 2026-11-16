@@ -7,11 +7,11 @@ written according to the datasheet **BST-BMP580-DS004**. Memory-efficient enough
 **Note:** This library supports **I2C communication only**.
 
 ## Installation
-Arduino IDE → *Library Manager* → search for **Voltino BMP580**, or download the ZIP and use
+Arduino IDE → *Library Manager* → search for **Voltino_BMP580**, or download the ZIP and use
 *Sketch → Include Library → Add .ZIP Library*.
 
 ```cpp
-#include <BMP580.h>
+#include <Voltino_BMP580.h>
 ```
 
 ## Features

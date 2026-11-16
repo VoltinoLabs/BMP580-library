@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: arduino/arduino-lint-action@v2
         with:
-          library-manager: submit  # change to "update" once the library is in Library Manager
+          library-manager: submit  # change to "update" once the library is in the Library Manager index
           compliance: strict
 
   compile:

@@ -14,7 +14,7 @@
 */
 
 #include <Wire.h>
-#include "BMP580.h"  // Include our optimized BMP580 library
+#include <Voltino_BMP580.h>
 
 BMP580 bmp;  // Create a BMP580 sensor object
 
